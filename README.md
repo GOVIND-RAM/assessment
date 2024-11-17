@@ -1,4 +1,5 @@
-To start the server use the command npm start, if any issues are found regarding npm start use the command npm i to install node_modules
+To start the server use the command npm start, if any issues are found regarding npm start
+use the command npm install react-scripts and npm i to install node_modules
 and then use npm start
 
 The main features include:
