@@ -9,5 +9,11 @@ The main features include:
 - Dashboard page to show statistics cards, recent orders, and revenue chart using ChartJS
 - Different Table pages like Inventory, Orders and Customers list is used 
 - Notifications and Comments Drawer are used as dropdowns
+**- changes made**:
+1. I have ensured that all order count values are rounded to whole numbers.
+2. The missing units have been added to the chart, ensuring proper display of units next to the values.
+3. I’ve added a search and filter option in the inventory section.
+4. I have rounded off all the values needed.
+5. A search option has been added to the customers section.
 
 
