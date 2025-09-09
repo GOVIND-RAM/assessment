@@ -1,7 +1,7 @@
 To start the server use command npm start , if any issues found regarding npm start use commant npm i 
 and then use npm start
 
-The main features includes:
+The main features includes in the file README.md are:
 - App Header with name and notificaiton icons
 - App Sidebar for pages routing using react-router-dom
 - API integration to fetch data from server
